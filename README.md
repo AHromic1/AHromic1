@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahromic1&label=Profile%20views&color=0e75b6&style=flat" alt="ahromic1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahromic1" alt="ahromic1" /></a> </p>
-
 - 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques: **Data Science: Machine Learning, a Harvard eDX online course**
 - 🔭 As a next project on my summer break, I am looking forward to learning the principles of creating a programming language from scratch.
 - 📫 How to reach me **aminahromic@gmail.com**
