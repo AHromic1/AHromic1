@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Amina Hromić</h1>
-<h3 align="center">A computer science student from Sarajevo, exploring the world of IT</h3>
+<h3 align="center">A third-year computer science student from Sarajevo, exploring the world of IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahromic1&label=Profile%20views&color=0e75b6&style=flat" alt="ahromic1" /> </p>
 
