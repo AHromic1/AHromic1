@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahromic1&label=Profile%20views&color=0e75b6&style=flat" alt="ahromic1" /> </p>
 
-- 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques: **Data Science: Machine Learning, a Harvard eDX online course**
+- 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques (**Data Science: Machine Learning, a Harvard eDX online course**).
 - 🔭 As a next project on my summer break, I am looking forward to learning the principles of creating a programming language from scratch.
-- 📫 How to reach me **aminahromic@gmail.com**
+- 📫 Reach me at: **aminahromic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
