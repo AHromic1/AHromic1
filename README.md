@@ -10,7 +10,7 @@ You are welcome to check any of these on my profile. As for the projects I look 
 
 - 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques (**Data Science: Machine Learning, a Harvard eDX online course**).
 - 🔭 As a next project on my summer break, I am looking forward to learning the principles of creating a programming language from scratch.
-- 📫 Reach me at: **aminahromic@gmail.com** or **https://www.linkedin.com/in/amina-hromic-a17009278?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEt5M2TCJTH%2B0g5b%2F7rRGYg%3D%3D**
+- 📫 Reach me at: **aminahromic@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
