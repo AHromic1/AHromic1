@@ -8,8 +8,8 @@ Having always enjoyed writing, drawing and music, but also solving puzzling prob
 
 You are welcome to check any of these on my profile. As for the projects I look forward to completing in the future, keep reading! 
 
-- 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques (**Data Science: Machine Learning, a Harvard eDX online course**).
-- 🔭 As a next project on my summer break, I am looking forward to learning the principles of creating a programming language from scratch.
+- 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques (**Data Science: Machine Learning, a Harvard eDX online course**), as well as developing a couple of interesting mobile apps.
+- 🔭 As a next project, I am looking forward to learning the principles of creating a programming language from scratch.
 - 📫 Reach me at: **aminahromic@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
