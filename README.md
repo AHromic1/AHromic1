@@ -6,11 +6,7 @@
 One of the first things that drew me to the computer science was the seemingly inexhaustible source of possibilities and opportunities to get creative, only if you put in some work, and a little bit of imagination. 
 Having always enjoyed writing, drawing and music, but also solving puzzling problems, once I started programming, I never looked back. Since then, and after many hours of coding, I have completed projects from different areas, including front-end and back-end development, mobile and web based application development, training a predictive model, machine learning algorithms, etc. 
 
-You are welcome to check any of these on my profile. As for the projects I look forward to completing in the future, keep reading! 
-
-- 🌱 I’m currently learning how to build a movie recommendation system using machine learning techniques (**Data Science: Machine Learning, a Harvard eDX online course**), as well as developing a couple of interesting mobile apps.
-- 🔭 As a next project, I am looking forward to learning the principles of creating a programming language from scratch.
-- 📫 Reach me at: **aminahromic@gmail.com** 
+You are welcome to check any of these on my profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
